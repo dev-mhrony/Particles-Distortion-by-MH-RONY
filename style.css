@@ -39,11 +39,11 @@ h2::before{
 @keyframes animate{
     0%
     {
-        left: 110%;
+        left: -110%;
     }
     100%
     {
-        left: -20%;
+        left: 100%;
     }
 
 }
